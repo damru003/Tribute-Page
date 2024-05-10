@@ -1,0 +1,53 @@
+body {
+    background-color: black;
+}
+
+.imgdiv {
+    width: 100%;
+    background-image: url("https://www.livemint.com/lm-img/img/2023/10/02/1600x900/20230930-DLI-HT-MN-Sankalp-Week--13--0_1696158985080_1696219017235.jpg");
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.container {
+    width: 100%;
+    float: left;
+    margin-top: 50px;
+}
+
+.container1 {
+    width: 100%;
+}
+.para {
+    margin: 10px 100px;
+}
+
+.row {
+    width: 100%;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+}
+
+.col {
+    width: 50%;
+    height: 250px;
+    margin: 5px;
+    background-color: blue;
+
+}
+
+h1,h2,h3,h4,h5,h6 {
+    color: white;
+}
+p {
+    color: white;
+}
+.text-center {
+    text-align: center;
+}
+.fw-bold {
+    font-weight: 600;
+}
